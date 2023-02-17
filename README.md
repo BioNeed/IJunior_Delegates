@@ -1,5 +1,5 @@
-# CSharp Professional IJuniour. Delegates
-Simple homework on delegates. (One of the tasks of the CSharp Professional course from the IJuniour School)
+# CSharp Professional IJunior. Delegates
+Simple homework on delegates. (One of the tasks of the CSharp Professional course from the IJunior School)
 
 Task description:\
 Разделить ответственность. В данном случае ответственность сохранения должна быть в другом классе. Но он должен узнавать что сущность изменилась, чтобы сохранять её. 
